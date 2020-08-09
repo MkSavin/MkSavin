@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### Statistics
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=MkSavin&show_icons=true&hide_border=true" />
+
+### Languages overall
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MkSavin&layout=compact)](https://github.com/MkSavin/)
+
 <!--
 **MkSavin/MkSavin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
